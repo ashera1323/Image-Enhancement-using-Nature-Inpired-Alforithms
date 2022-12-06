@@ -1,4 +1,4 @@
-# Image-Enhancement-using-Nature-Inpired-Alforithms
+# Image-Enhancement-using-Nature-Inpired-Algorithms
 This repository contains the Python code for applying nature-inspired techniques to improve the contrast of MRI pictures. Ant colony optimization, genetic algorithms, and simulated annealing are examples of nature-inspired techniques that create a global transfer function to transform input images into greater contrast ones while attempting to preserve the natural appearance of the images.
 
 ## Description
